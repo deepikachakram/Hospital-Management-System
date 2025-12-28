@@ -19,4 +19,4 @@ A console-based Hospital Management System built using Java.
    java -cp src hospital.Main
 
 ## Author
-Your Name
+Deepika
